@@ -1,7 +1,5 @@
 # Linux + Git Cheat Sheet
 
-> Maintained by Your Name
-
 ---
 
 ## Linux Commands
